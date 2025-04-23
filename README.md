@@ -1,3 +1,1 @@
-This document is a discussion of proposals related to https://github.com/w3ctag/design-reviews/issues/76
-
-Read it at https://w3ctag.github.io/with-credentials/
+This repository held a [discussion of proposals](https://w3ctag.github.io/with-credentials/) related to https://github.com/w3ctag/design-reviews/issues/76, which is now closed. As such, the repository is archived and will not be updated anymore.
